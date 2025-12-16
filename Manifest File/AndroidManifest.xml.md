@@ -1,13 +1,9 @@
-
-
 # Permissions for android
-## 1. Location
 `<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />`: Allow Background Location
 `<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />`: Approximate Location
 `<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />`: Exact Location
 `<uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />`: Location Info of media files
 
-## 2. Network
 `<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />`: Internet Status
 `<uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />`: Toggle DND Mode or Ringer Mode
 `<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />`: Wi-Fi On/Off status, Connected Network, Connected SSID, Scan Result, 
@@ -53,5 +49,4 @@
 `<uses-permission android:name="" />`
 `<uses-permission android:name="" />`
 `<uses-permission android:name="" />`
-
 
