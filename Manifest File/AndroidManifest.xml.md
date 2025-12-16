@@ -1,1 +1,57 @@
 
+
+# Permissions for android
+## 1. Location
+`<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />`: Allow Background Location
+`<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />`: Approximate Location
+`<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />`: Exact Location
+`<uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />`: Location Info of media files
+
+## 2. Network
+`<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />`: Internet Status
+`<uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />`: Toggle DND Mode or Ringer Mode
+`<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />`: Wi-Fi On/Off status, Connected Network, Connected SSID, Scan Result, 
+`<uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />`: is `on_foot`, `in_vehicle`, `on_bicycle`, `running`, `still`?
+`<uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />`: Answer incoming call
+`<uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />`: Allow Accessibility Service - Observe User Action, Retrieve Screen content, Interact on user behalf.
+`<uses-permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />`: Monitor, interact with, and dismiss all notifications
+`<uses-permission android:name="android.permission.BIND_DEVICE_ADMIN" />`: Lock Device, Password requirements, wipe data, disable camera, prevant self uninstall.
+`<uses-permission android:name="android.permission.BIND_QUICK_SETTINGS_TILE" />`: Add tiles in Quick panel.
+`<uses-permission android:name="android.permission.BLUETOOTH" />`: Find Bluetooth Devices, Pair & Connect, Data Transfer
+`<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />`: Find, Pair & Connect, Toggle on/off.
+`<uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />`: Make Bluetooth device discoverable.
+`<uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />`: Connect Bluetooth Device.
+`<uses-permission android:name="android.permission.BLUETOOTH_SCAN" />`: Find Bluetooth Devices.
+`<uses-permission android:name="android.permission.CALL_PHONE" />`: Initiate call
+`<uses-permission android:name="android.permission.CAMERA" />`: Capture Photos, Videos, Use Flash
+`<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />`: Toggle Data On/Off
+`<uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />`: Toggle Wi-Fi On/Off, Connect, Disconnect to a network, add or remove network.
+`<uses-permission android:name="android.permission.DETECT_SCREEN_CAPTURE" />`: Detect Screenshot
+`<uses-permission android:name="android.permission.DETECT_SCREEN_RECORDING" />`: Detect Screen Recording
+`<uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />`: Expand or collapse Status bar.
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+`<uses-permission android:name="" />`
+
+
